@@ -41,7 +41,15 @@ Load Testing with JMeter
 *   The JMeter configuration is designed to simulate a specified number of concurrent users.
     
 *   The **single-threaded server** was tested with a throughput of **4100+ requests per minutes**, while the **multi-threaded server** achieved **52000+ requests per minutes**.
-    
+
+## JMeter Load Testing Results
+
+### Single-Threaded Server Throughput
+![Single-Threaded Server](snapshots/single-threaded-image1.png)
+
+### Multi-Threaded Server Throughput
+![Multi-Threaded Server](snapshots/multi-threaded-image2.png)
+
 
 Conclusion
 ----------
