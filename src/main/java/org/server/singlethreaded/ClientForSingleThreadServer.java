@@ -1,4 +1,4 @@
-package org.example.singlethreaded;
+package org.server.singlethreaded;
 
 import java.io.BufferedReader;
 import java.io.IOException;

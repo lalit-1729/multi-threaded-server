@@ -1,6 +1,5 @@
-package org.example.multithreaded;
+package org.server.multithreaded;
 
-import javax.swing.*;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
