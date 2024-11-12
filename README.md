@@ -11,7 +11,7 @@ This project implements a multi-threaded server in Java designed to handle concu
 ## Performance Metrics
 - **Single-Threaded Server Throughput**: 4100+ requests per second.
 - **Multi-Threaded Server Throughput**: 52000+ requests per second.
-- **Concurrent Users**: Appropriate concurrent users were simulated for load testing to ensure real-world traffic handling.
+- **Concurrent Users**: Appropriate (1000 users/sec) concurrent users were simulated for load testing to ensure real-world traffic handling.
 
 ## Requirements
 - Java 8 or higher
